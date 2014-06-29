@@ -1,0 +1,35 @@
+{
+  "name": "backup-to-ebooks-archive",
+  "version": "0.0.1",
+  "description": "Take your Twitter backup file and convert it to a twitter_ebooks archive.",
+  "main": "index.js",
+  "bin": {
+    "backup-to-ebooks-archive": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Ursenbach <jon@ursenba.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "0.0.5",
+    "minimist": "^0.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jonursenbach/backup-to-ebooks-archive.git"
+  },
+  "keywords": [
+    "twitter",
+    "backup",
+    "ebooks"
+  ],
+  "bugs": {
+    "url": "https://github.com/jonursenbach/backup-to-ebooks-archive/issues"
+  },
+  "homepage": "https://github.com/jonursenbach/backup-to-ebooks-archive"
+}

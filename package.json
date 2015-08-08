@@ -1,6 +1,6 @@
 {
   "name": "backup-to-ebooks-archive",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Take your Twitter backup file and convert it to a twitter_ebooks archive.",
   "main": "index.js",
   "bin": {

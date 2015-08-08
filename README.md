@@ -1,6 +1,12 @@
 # backup-to-ebooks-archive
 [![NPM](http://img.shields.io/npm/v/backup-to-ebooks-archive.svg?style=flat)](https://www.npmjs.org/package/backup-to-ebooks-archive)
 
+**NO LONGER MAINTAINED**
+
+The twitter_ebooks binary now supports functionality similar to this. Use that instead.
+
+---
+
 Convert your [Twitter backup](https://blog.twitter.com/2012/your-twitter-archive) into a [twitter_ebooks](https://github.com/mispy/twitter_ebooks) archive.
 
 ## Installation
